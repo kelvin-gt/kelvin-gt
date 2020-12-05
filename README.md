@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Web Development
 - 🌱 I’m currently studying Information Systems at one of the Universities in Yogyakarta
 - 📫 How to reach me: kelvingtsantos@gmail.com
-- ⚡ Linkedin: Kelvin Gilbert
+- ⚡ Thank You ⚡
