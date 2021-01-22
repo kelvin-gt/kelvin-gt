@@ -2,8 +2,7 @@
 <img align="right" height="200" alt="GIF" src="https://i.imgur.com/8MupZHY.gif" />
 
 
-- 😄 You can call me Kelvin/Gilbert
-- 🌱 I’m currently learning Android Development 
+- 😄 You can call me Kelvin/Gilbert 
 - 🌱 I’m currently studying Information Systems at one of the Universities in Yogyakarta
 - ⚡ “Stay Hungry, Stay Foolish”
 
